@@ -1,5 +1,8 @@
 ### Olá! 👋 Seja bem-vind@!😊
 
+Mamãe da Helena👶❤️ e amante de bons filmes e séries.
+Sou organizada, criativa, multitarefas (habilidade adquirida juntamente com a maternidade) e gosto de estar sempre aprendendo algo novo.
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
