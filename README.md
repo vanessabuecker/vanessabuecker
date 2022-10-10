@@ -1,5 +1,9 @@
 ## Olá! 👋 Seja bem-vind@!😊
 
+<p align="left"> 
+  Estudante de <strong>Desenvolvimento Web Jr</strong> na <strong>Laboratoria.</strong><br>
+</p>
+
 <br>
 Mamãe da Helena👶❤️ e amante de bons filmes e séries.
 Sou organizada, criativa, multitarefas (habilidade adquirida juntamente com a maternidade) e gosto de estar sempre aprendendo algo novo.                  
@@ -7,9 +11,7 @@ Sou organizada, criativa, multitarefas (habilidade adquirida juntamente com a ma
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="left"> 
-  Estudante de <strong>Desenvolvimento Web Jr</strong> na <strong>Laboratoria.</strong><br>
-</p>
+
 
 <p align="left">
   🦄 Linguagens: <strong>Java | Kotlin | JavaScript | HTML | CSS</strong>
