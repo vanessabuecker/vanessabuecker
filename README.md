@@ -1,4 +1,4 @@
-## **Olá! 👋 Seja bem-vind@!**😊
+## Olá! 👋 Seja bem-vind@!😊
 
 
 Mamãe da Helena👶❤️ e amante de bons filmes e séries.
