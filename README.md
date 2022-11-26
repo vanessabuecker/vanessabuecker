@@ -14,7 +14,7 @@ Sou organizada, criativa, multitarefas (habilidade adquirida juntamente com a ma
 
 
 <p align="left">
-  🦄 Linguagens: <strong>Java | Kotlin | JavaScript | HTML | CSS</strong>
+  🦄 Linguagens: <strong>Java | Kotlin | JavaScript | HTML | CSS | ReactJS</strong>
 </p>
 
 <p align="left">
