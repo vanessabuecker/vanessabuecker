@@ -1,7 +1,7 @@
 ## Olá! 👋 Seja bem-vind@!😊
 
 <p align="left"> 
-  Analista de <strong>Desenvolvimento de Sistemas <br>
+  Analista de <strong>Desenvolvimento de Sistemas 💻👩 <br>
 </p>
 
 <br>
