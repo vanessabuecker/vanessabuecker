@@ -1,7 +1,7 @@
 ## Olá! 👋 Seja bem-vind@!😊
 
 <p align="left"> 
-  Estudante de <strong>Desenvolvimento Web Jr</strong> na <strong>Laboratoria.</strong><br>
+  Analista de <strong>Desenvolvimento de Sistemas <br>
 </p>
 
 <br>
